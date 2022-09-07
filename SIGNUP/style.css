@@ -1,0 +1,158 @@
+@media (max-width: 2000px) {/* rules here apply to devices from 993px to 1200px (inclusive) */
+    .main{
+        margin-left: 30%;
+        margin-top: 10%;
+        width: 35%;
+        
+    }
+    .main2{
+        font-family: sans-serif;
+        background-color: white;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        padding-top: 5px;
+        padding-left: 35px;
+        padding-bottom: 8px;
+        height: 145px;
+        
+    }
+    .main3{
+        font-family: sans-serif;
+        background-color:#35a4a4;
+        padding-top: 5px;
+        padding-left: 35px;
+        padding-bottom: 4px;
+        width: 60%;
+        border-bottom-left-radius: 6px;
+        height: 200px;
+        
+    }
+    .main4{
+        font-family: sans-serif;
+        background-color:rgb(116, 204, 207);
+        padding-top: 5px;
+        padding-left: 35px;
+        padding-bottom: 8px;
+        width: 60%;
+        border-bottom-right-radius: 6px;
+        height: 196px;
+
+    }
+    .main2 h4{
+        font-weight: bolder;
+        font-size: 17px;
+        color: #63b1ff;
+    }
+    .span1{
+        font-size: 13px;
+        font-weight: bold;
+        color: #c1b948;
+    }
+    .span2{ 
+        font-size: 14px;
+        font-weight: bold;
+        color: #c1b948;  
+    }
+    .span3{
+     font-weight: lighter;
+     font-size: 13px;
+     color: #adb5bd;
+     line-height: 12px; 
+    }
+    .main3 h4{
+        font-size: 13px;
+        font-weight: bold;
+        color: whitesmoke;
+    }
+    .cax{
+        font-weight: lighter;
+        font-size: 11px;  
+        color: rgb(192, 200, 208);
+    }
+    .yax{
+        font-weight: bolder;
+        color: whitesmoke;
+    }
+    .dax{
+        font-weight: lighter;
+        font-size: 13px;  
+        color: rgb(255, 255, 255);
+    }
+    .submit{
+       font-size: 12px;
+       background-color: #d7cc31;
+       border-radius: 4px;
+       border: none;
+       color: white;
+       height: 38px;
+       font-weight: bold;
+       font-family: candara;
+       width: 85%;
+       margin-top: 3%;
+    
+    }
+    .main4 h4{
+        font-size: 13px;
+        font-weight: bold;
+        color: whitesmoke;
+    }
+    .span4{
+        font-weight: lighter;
+     font-size: 10px;
+     color: whitesmoke;
+    }
+    body{
+        background-color: #dde3ea;
+    }
+    .diva{
+        display: flex;
+         
+    }
+
+
+    }
+    
+    
+    @media (max-width: 1200px) {	/* rules here apply to devices from 769px to 992px (inclusive) */
+    .diva{
+        display: block;
+    }
+    .main{
+        margin-bottom: 40px;
+    }
+    .cax{
+      font-weight: light;
+      font-size: 11px;
+      color: whitesmoke;
+    }
+    .span3{
+        font-size: 11px;
+        line-break: loose;
+    }
+    .main2{
+        padding: 10px 20px;
+        width: 235px;
+        height: 200px;
+    }
+    .main3{
+        width: 235px;
+        padding: 10px 20px;
+        border-bottom-left-radius: 0px;
+        height: 200px;
+
+    }
+    .main4{
+        width: 235px;
+        padding: 10px 20px;
+        border-bottom-left-radius: 6px;
+        height: 200px;
+
+    }
+    .submit{
+        width: 100%;
+    }
+
+
+
+}
+    
